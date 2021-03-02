@@ -44,4 +44,10 @@ hero_media = "user-2.jpg"
 +++
 ## My name is **Iaroslav Domin** and I'm a **data scientist**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+I mostly program in **R**, in which I have more than 6 years of experience.
+In the past I'm a successful participant of various mathematical competitions
+so I love solving tough problems in a creative manner.
+
+My other passion is data visualization. A nicely-done chart always makes me happier :heart_eyes:
+
+I also occasionally do some stuff in **python** and **javascript**.
