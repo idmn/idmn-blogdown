@@ -38,4 +38,9 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
+
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSQMxDrmPtQkpgHVreyy26qS4aw7gP-reNV2L3I08mjemCtLKKBVUM-GjDGeue55Llry5CFkVEo4AU_/embed?start=false&loop=false&delayms=60000" >}}
+
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSQMxDrmPtQkpgHVreyy26qS4aw7gP-reNV2L3I08mjemCtLKKBVUM-GjDGeue55Llry5CFkVEo4AU_/embed?start=false&loop=false&delayms=60000" >}}
+
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

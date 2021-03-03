@@ -2,33 +2,25 @@
 authors:
 - admin
 avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 btn:
 - label: Download Resume
   url: https://sourcethemes.com/academic/docs/install/
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MSc Applied Mathematics
+    institution: V. N. Karazin Kharkiv National University
+    year: 2015
+  - course: BSc in Applied Mathematics
+    institution: V. N. Karazin Kharkiv National University
+    year: 2014
+email: "ya.domin@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
-organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- Data Science
+- Data Visualization
+name: Iaroslav Domin
+
 social:
 - icon: stack-overflow
   icon_pack: fab
@@ -48,8 +40,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Bla bla bla... Is this necessary?
