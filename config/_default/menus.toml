@@ -23,6 +23,11 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "CV"
+  url = "pdf/ia-domin_cv.pdf"
+  weight = 70
+
 # [[main]]
 #   name = "dropdown"
 #   url = "#"
