@@ -48,6 +48,6 @@ I mostly program in **R**, in which I have more than 6 years of experience.
 In the past I'm a successful participant of various mathematical competitions
 so I love solving tough problems in a creative manner.
 
-My other passion is data visualization. A nicely-done chart always makes me happier :heart_eyes:
+My particular passion is data visualization. A nicely-done chart always makes me happier :heart_eyes:
 
-I also occasionally do some stuff in **python** and **javascript**.
+I also occasionally program in **python** and **javascript**.

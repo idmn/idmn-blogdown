@@ -1,5 +1,5 @@
 title: idmn.me
-baseURL: https://examplesite.org
+baseURL: https://idmn.me/
 copyright: Copyright &copy; {year}
 googleAnalytics: ''
 disqusShortname: ''
@@ -41,3 +41,8 @@ taxonomies:
   category: categories
   publication_type: publication_types
   tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
