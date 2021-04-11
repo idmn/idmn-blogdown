@@ -25,7 +25,7 @@
 
 [[main]]
   name = "CV"
-  url = "pdf/ia-domin_cv.pdf"
+  url = "CV/ia-domin_cv.pdf"
   weight = 70
 
 # [[main]]
